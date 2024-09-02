@@ -1,0 +1,12 @@
+anthropic
+asyncio
+faiss-cpu
+langchain
+langchain-community
+mistralai
+numpy
+openai
+openpyxl
+pandas
+requests
+unstructured

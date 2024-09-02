@@ -20,11 +20,11 @@ Frequently used commands and requirements for various projects.
     pip-compile requirements.in
     pip install -r requirements.txt
     ```
+
 4. Activate conda virtual environment
     ```bash
     conda activate env_name
     ```
-
 
 5. Remove conda virtual environment
     ```bash
